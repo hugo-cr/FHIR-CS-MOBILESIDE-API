@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k4pj0DY8nVPfNeP8mRF5zPEgjSrX+wxzG6N7TDGVBCc=",
+  "Source": "FHIR-CS-MobileSide-API",
+  "BasePath": "_content/FHIR-CS-MobileSide-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
